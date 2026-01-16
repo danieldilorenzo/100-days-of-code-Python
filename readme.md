@@ -2,10 +2,10 @@
 
 <br>
 
-# Recomendações:
+# Dicas:
 
 - Usar uma segunda tela
-- Criar um documento com sintaxes, conceitos e resumo (é esse documento :open_mouth: )
+- Criar um documento com sintaxes, conceitos e resumo (é esse documento :o)
 - Manter a motivação
 - Anotar como o código funciona, enquanto o código ainda está fresco
 - Controlar cada dia de progresso
@@ -15,6 +15,7 @@
 - Dia 01 - Printing, commenting, debugging, Sting Manipulation and Variables
 - Dia 02 - Data types, Numbers, Operations, Type Conversion, f-Strings
 - Dia 03 - Conditional Statements, Logical Operations, Code Blocks and Scope
+- Dia 04 - Randomisation and Python Lists
 
 # Dicas na aula
 
@@ -24,7 +25,7 @@ Quando você vai printar
 
 Ele vai dar erro, pois vai pensar que as partes abaixo são blocos
 
->You
+> You
 
 > s land. Choose the colour of the cat "black" or "white
 
