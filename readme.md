@@ -2,10 +2,10 @@
 
 <br>
 
-# Dicas:
+# Recomendações:
 
 - Usar uma segunda tela
-- Criar um documento com sintaxes, conceitos e resumo (é esse documento :o)
+- Criar um documento com sintaxes, conceitos e resumo (é esse documento :open_mouth: )
 - Manter a motivação
 - Anotar como o código funciona, enquanto o código ainda está fresco
 - Controlar cada dia de progresso
