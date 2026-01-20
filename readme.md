@@ -17,6 +17,7 @@
 - Dia 03 - Conditional Statements, Logical Operations, Code Blocks and Scope
 - Dia 04 - Randomisation and Python Lists
 - Dia 05 - Python Loops
+- Dia 06 - Funções Python
 
 
 # Dicas na aula
